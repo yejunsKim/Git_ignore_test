@@ -29,8 +29,10 @@ public class Assume_unchanged_8 {
 		      Assume_unchanged_8.java 파일이 >(dirty) 모양으로 들어오게 되고 
 		      이제부터는 Staged Changes(관리를 받는 단계)에도 들어오게 되고 Commit 및 Push 대상이 되어집니다.          
 		*/
-			System.out.println("==== Assume_unchanged_8.java 파일입니다. ===="); 
-
+			System.out.println("==== Assume_unchanged_8.java 파일입니다. ====");
+			System.out.println("==== Assume_unchanged_8.java 파일 수정입니다. ====");
+			System.out.println("==== Assume_unchanged_8.java 파일 재수정입니다. ====");
+			System.out.println("==== Assume_unchanged_8.java 파일 수정 완료입니다. ====");
 	}
 
 }
